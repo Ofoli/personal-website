@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'prince-odame',
-        short_name: 'opodame',
+        name: 'samson nkrumah',
+        short_name: 'samson nkrumah',
         start_url: '/',
         background_color: '#020c1b',
         theme_color: '#0a192f',

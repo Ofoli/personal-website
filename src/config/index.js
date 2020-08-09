@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'Samson Kwaku Nkrumah | Full Stack Software Engineer',
   siteDescription:
-    'Prince Odame is a smart computer engineer, building things to make the world a better place',
+    'Samson Kwaku Nkrumah is a smart computer engineer, building things to make the world a better place',
   siteKeywords:
-    'Prince Odame, Prince, Odame, opodame, software engineer, backend, back-end engineer, web developer, python, nodejs, docker, microservices, ghana',
-  siteUrl: 'https://princeodame.com',
+    'Samson Kwaku Nkrumah, Samson, Kwaku, Nkrumah, Boanerges, software engineer, backend, back-end engineer, web developer, python, nodejs, docker, microservices, ghana, React, express,',
+  siteUrl: 'https://boanerge.me',
   siteLanguage: 'en_US',
   siteImage: 'https://princeodame.com/og.png',
 

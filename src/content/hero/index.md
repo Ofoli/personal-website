@@ -1,7 +1,7 @@
 ---
 title: 'Hi, I am'
 name: 'Samson Kwaku Nkrumah'
-subtitle: "I a solution to the world's problems"
+subtitle: "I am a solution to the world's problems"
 contactText: 'Get In Touch'
 ---
 
