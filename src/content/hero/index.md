@@ -1,8 +1,8 @@
 ---
 title: 'Hi, I am'
 name: 'Samson Kwaku Nkrumah'
-subtitle: "I am a solution to the world's problems"
+subtitle: 'I bring solution to challenging problems of humanity'
 contactText: 'Get In Touch'
 ---
 
-A smart software engineer based in India, specialised in design & development of scalable applications. Am Currently working at [Xearth](Xearth.in) as a Full Stack Engineer, ask me about it. I am currently a student in [LPU](https://www.lpu.in/)
+A smart software engineer based in India, specialised in design & development of scalable applications. Am Currently working at [Xearth](Xearth.in) and [Luxstek](https://luxstek.com)as a Full Stack Engineer, ask me about it. I am currently a student in [LPU](https://www.lpu.in/)
