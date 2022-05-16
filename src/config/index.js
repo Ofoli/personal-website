@@ -6,7 +6,7 @@ module.exports = {
     'Samson Kwaku Nkrumah, Samson, Kwaku, Nkrumah, Boanerges, software engineer, backend, back-end engineer, web developer, python, nodejs, docker, microservices, ghana, React, express,',
   siteUrl: 'https://boanerge.me',
   siteLanguage: 'en_US',
-  siteImage: 'https://princeodame.com/og.png',
+  siteImage: 'https://boanerges.me/og.png',
 
   // googleVerification: 'dUgjmQBI7tQOciwUQ16Q31rC6bPvMShtEKYuckNowQ',
 

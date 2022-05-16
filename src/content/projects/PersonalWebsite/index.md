@@ -3,7 +3,7 @@ date: '2019-10-20'
 title: 'Personal Website'
 image: ''
 github: 'https://github.com/Boanerges1996/personal-website.git'
-external: 'http://princeodame.com'
+external: 'https://boanerges.me'
 tech:
   - HTML
   - CSS
