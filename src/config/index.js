@@ -42,13 +42,13 @@ module.exports = {
       url: '#about',
     },
     {
-      name: 'Experience',
+      name: 'Projects',
+      url: '#projects',
+    },
+    {
+      name: 'Work',
       url: '#jobs',
     },
-    // {
-    //   name: 'Work',
-    //   url: '#projects',
-    // },
     {
       name: 'Contact',
       url: '#contact',
